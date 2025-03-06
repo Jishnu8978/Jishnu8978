@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jishnu8978
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS, Python, Linux, Github, MySql, Mongo DB.
+- 🌱 I’m currently learning AWS, Python, Linux, Github, MySql, Docker, Kubernetes, Jenkins, Terraform.
 - 📫 How to reach me on email jishnuaravind2000@gmail.com
 
 <!---
