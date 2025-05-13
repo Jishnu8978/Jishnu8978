@@ -35,4 +35,4 @@ Tools:      Git, Postman, VMware, VS Code, Office 365
 
 🤝 Let’s Connect
 
-<p align="left"> <a href="https://www.linkedin.com/in/jishnu-aravind-6796292a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /> </a> <a href="mailto:jishnuaravind2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /> </a> </p> ```
+<p align="left"> <a href="https://www.linkedin.com/in/jishnu-aravind-6796292a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /> </a> <a href="mailto:jishnuaravind2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /> </a> </p> 
