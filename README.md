@@ -20,7 +20,7 @@
 - 🧠 Currently learning **AWS, SRE Practices, Monitoring, and Automation Tools**
 - 🔧 Exploring hands-on projects with **Docker, GitHub Actions, Flask, Python**
 - 📫 Reach me: **jishnuaravind2000@gmail.com**
-- 🌐 Portfolio: [Coming Soon]
+- 🌐 Portfolio: https://jishnu-aravind-portfolio.lovable.app/
 
 ---
 
